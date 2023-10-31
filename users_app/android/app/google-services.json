@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "815953420593",
+    "firebase_url": "https://urbantaxi-b8ffc-default-rtdb.firebaseio.com",
+    "project_id": "urbantaxi-b8ffc",
+    "storage_bucket": "urbantaxi-b8ffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815953420593:android:69242f4a1ea457d4f8d010",
+        "android_client_info": {
+          "package_name": "com.urbantaxi.users_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANn6o8buv-EnRwnadbi9HqRoVuVDVLCZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "drivers_app",
+            "cwd": "drivers_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "drivers_app (profile mode)",
+            "cwd": "drivers_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "drivers_app (release mode)",
+            "cwd": "drivers_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "users_app",
+            "cwd": "users_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "users_app (profile mode)",
+            "cwd": "users_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "users_app (release mode)",
+            "cwd": "users_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
